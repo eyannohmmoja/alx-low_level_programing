@@ -1,4 +1,4 @@
-#include <stdih.h>
+#include <stdio.h>
 /**
  *main - This is a program that prints the alphabet in lowercase
  *followed by a new line.
