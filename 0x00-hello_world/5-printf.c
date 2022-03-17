@@ -1,9 +1,9 @@
-#include <stdio.h>
+#inclde <stdio.h>
 
 /**
- *main Entry point
- *My hello, printf task
- *Return: return 0 after program execution
+ * main - Entry point
+ *
+ * Return 0.
  */
 int main(void)
 {
